@@ -9,4 +9,4 @@ one day at a time.
 - 💼 Cisco Intern — network security, threat detection, and risk management
 - 📜 CCNA Certified (Networking, Switching/Routing/Wireless Essentials, Enterprise Security)
 - 🐍 Also into Python, ML, and IoT projects
-- 📫 Reach me: abhishek8432447171@gmail.com
+- 📫 Gmail: abhishek8432447171@gmail.com
